@@ -11,6 +11,8 @@ __pycache__/
 *.JPG
 media/
 static/
+migrations/
+.idea/
 # Distribution / packaging
 .Python
 build/
